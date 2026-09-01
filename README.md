@@ -12,7 +12,7 @@ This is an honest judgement of my skill in each Algorithm category
 ⚪ Math  
 ⚪ Number Theory  
 ⚪ Greedy  
-⚪ Binary  
+⚪ Binary Search  https://codeforces.com/problemset/page/2?tags=binary%20search,0-1000  
 ⚪ Two pointers  
 ⚪ DP  
 
