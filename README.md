@@ -9,8 +9,8 @@ This is an honest judgement of my skill in each Algorithm category
 🔴 - Hard  
 
 ### Codeforces  
-⚪ Math  
-⚪ Number Theory  
+⚪ Math  https://codeforces.com/problemset/page/2?tags=math,0-1000  
+⚪ Number Theory  https://codeforces.com/problemset/page/1?tags=number+theory%2C0-1000  
 ⚪ Greedy  
 ⚪ Binary Search  https://codeforces.com/problemset/page/2?tags=binary%20search,0-1000  
 ⚪ Two pointers  
