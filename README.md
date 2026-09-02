@@ -2,6 +2,13 @@ This is an honest judgement of my skill in each Algorithm category
 
 ### Leetcode   
 🟢 DFS: I can not solve mediums on my own and struggle with easy problems, even though I have studied them multiple times need more practice.  
+https://leetcode.com/problem-list/depth-first-search/
+  
+🟢 Binary Search: 
+https://leetcode.com/problem-list/binary-search/  
+  
+🟢 Hash Table: A lot of problems in this. They joke every lc problem is hash table problem so gotta grind this a lot.  
+https://leetcode.com/problem-list/hash-table/  
 
   
 🟢 - Easy  
