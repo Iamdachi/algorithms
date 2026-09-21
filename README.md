@@ -1,6 +1,10 @@
 This is an honest judgement of my skill in each Algorithm category
 
 ### Leetcode   
+🟢 - Easy  
+🟡 - Medium  
+🔴 - Hard  
+
 🟢 DFS: I can not solve mediums on my own and struggle with easy problems, even though I have studied them multiple times need more practice.  
 https://leetcode.com/problem-list/depth-first-search/
   
@@ -10,10 +14,10 @@ https://leetcode.com/problem-list/binary-search/
 🟢 Hash Table: A lot of problems in this. They joke every lc problem is hash table problem so gotta grind this a lot.  
 https://leetcode.com/problem-list/hash-table/  
 
-  
-🟢 - Easy  
-🟡 - Medium  
-🔴 - Hard  
+🟢 Linked List: Mediums trip me up but I should be solving them.  
+https://leetcode.com/problem-list/linked-list/
+
+ 
 
 ### Codeforces  
 ⚪ Math  https://codeforces.com/problemset/page/2?tags=math,0-1000  
@@ -32,3 +36,6 @@ Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more comple
 🔵 Blue — Expert: 1600 – 1900  
 🟣 Purple — Candidate Master: 1900 – 2100  
 🟠 Orange — Master: 2100 – 2300  
+
+## Problems that I should solve but could not
+https://leetcode.com/problems/partition-list/
