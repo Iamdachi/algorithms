@@ -1,6 +1,6 @@
 This is an honest judgement of my skill in each Algorithm category
 
-### Leetcode   
+## Leetcode   
 🟢 - Easy  
 🟡 - Medium  
 🔴 - Hard  
@@ -19,7 +19,7 @@ https://leetcode.com/problem-list/linked-list/
 
  
 
-### Codeforces  
+## Codeforces  
 ⚪ Math  https://codeforces.com/problemset/page/2?tags=math,0-1000  
 ⚪ Number Theory  https://codeforces.com/problemset/page/1?tags=number+theory%2C0-1000  
 ⚪ Greedy  
@@ -45,8 +45,11 @@ https://cses.fi/problemset/task/2413
 https://leetcode.com/problems/recover-binary-search-tree/description/ (Morris traversal)  
 
 
-## Reading and learnign
+## What I need to learn
 https://cses.fi/book/book.pdf  
 https://cp-algorithms.com/index.html  
 https://usaco.guide/  
+🟠 Binomial Coefficients - https://cp-algorithms.com/combinatorics/binomial-coefficients.html  
+
+
 
