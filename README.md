@@ -15,7 +15,10 @@ https://leetcode.com/problem-list/binary-search/
 https://leetcode.com/problem-list/hash-table/  
 
 🟢 Linked List: Mediums trip me up but I should be solving them.  
-https://leetcode.com/problem-list/linked-list/
+https://leetcode.com/problem-list/linked-list/  
+
+🟢-🟡 DP: Almost no easies, most are set Medium or Hard  
+https://leetcode.com/problem-list/dynamic-programming/  
 
  
 
