@@ -50,6 +50,8 @@ https://cses.fi/book/book.pdf
 https://cp-algorithms.com/index.html  
 https://usaco.guide/  
 🟠 Binomial Coefficients - https://cp-algorithms.com/combinatorics/binomial-coefficients.html  
+🟠 Submask Enumeration - https://cp-algorithms.com/algebra/all-submasks.html  
+
 
 
 
