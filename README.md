@@ -42,6 +42,11 @@ Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more comple
 
 ## Problems that I should solve but could not
 https://cses.fi/problemset/task/1646/  
+https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=hash-table  
+https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
+https://leetcode.com/problems/implement-trie-prefix-tree  
+https://leetcode.com/problems/repeated-dna-sequences  
+
 
 ## Problems that I have no idea how to solve  
 https://cses.fi/problemset/task/2413  
