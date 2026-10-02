@@ -51,6 +51,7 @@ https://leetcode.com/problems/repeated-dna-sequences
 ## Problems that I have no idea how to solve  
 https://cses.fi/problemset/task/2413  
 https://leetcode.com/problems/recover-binary-search-tree/description/ (Morris traversal)  
+https://codeforces.com/problemset/problem/2237/C (these codeforces problems are something else...)
 
 
 ## What I need to learn
