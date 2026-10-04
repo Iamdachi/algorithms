@@ -40,6 +40,11 @@ Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more comple
 🟣 Purple — Candidate Master: 1900 – 2100  
 🟠 Orange — Master: 2100 – 2300  
 
+## Atcoder  
+ABC's C took be about 1 hour with editorial - There was no "technique" like dfs, bfs... it was pure logical observations. I don't know what to "learn" for this. If I had just thought about the problem properly it would take like 20 minutes....
+Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level for me. And even before ABCs I think I need to do a lot of leetcode and CSES to be interview ready and really grind the basic techniques.
+
+
 ## Problems that I should solve but could not
 https://cses.fi/problemset/task/1646/  
 https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=hash-table  
@@ -48,7 +53,6 @@ https://leetcode.com/problems/implement-trie-prefix-tree
 https://leetcode.com/problems/repeated-dna-sequences  
 https://atcoder.jp/contests/abc469/tasks/abc469_a  
 https://atcoder.jp/contests/abc469/tasks/abc469_b  
-https://atcoder.jp/contests/abc469/tasks/abc469_c  
 
 
 ## Problems that I have no idea how to solve  
