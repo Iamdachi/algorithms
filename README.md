@@ -46,13 +46,19 @@ https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2
 https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
 https://leetcode.com/problems/implement-trie-prefix-tree  
 https://leetcode.com/problems/repeated-dna-sequences  
+https://atcoder.jp/contests/abc469/tasks/abc469_a  
+https://atcoder.jp/contests/abc469/tasks/abc469_b  
+https://atcoder.jp/contests/abc469/tasks/abc469_c  
 
 
 ## Problems that I have no idea how to solve  
 https://cses.fi/problemset/task/2413  
 https://leetcode.com/problems/recover-binary-search-tree/description/ (Morris traversal)  
 https://codeforces.com/problemset/problem/2237/C (these codeforces problems are something else...)  
-https://codeforces.com/problemset/problem/2156/B (solve these and you in the CF game...)
+https://codeforces.com/problemset/problem/2156/B (solve these and you in the CF game...)  
+https://atcoder.jp/contests/abc469/tasks/abc469_d (Atcoder Game)  
+https://atcoder.jp/contests/abc469/tasks/abc469_e  
+https://atcoder.jp/contests/abc469/tasks/abc469_f  
 
 
 ## What I need to learn
