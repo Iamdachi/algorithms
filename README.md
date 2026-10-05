@@ -46,8 +46,6 @@ Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level fo
 
 
 ## Problems that I should solve but could not
-https://cses.fi/problemset/task/1646/  
-https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=hash-table  
 https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
 https://leetcode.com/problems/implement-trie-prefix-tree  
 https://leetcode.com/problems/repeated-dna-sequences  
