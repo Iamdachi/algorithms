@@ -48,7 +48,6 @@ Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level fo
 ## Problems that I should solve but could not
 https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
 https://leetcode.com/problems/implement-trie-prefix-tree  
-https://leetcode.com/problems/repeated-dna-sequences  
 https://atcoder.jp/contests/abc469/tasks/abc469_a  
 https://atcoder.jp/contests/abc469/tasks/abc469_b  
 
@@ -70,6 +69,12 @@ https://usaco.guide/
 🟠 Binomial Coefficients - https://cp-algorithms.com/combinatorics/binomial-coefficients.html  
 🟠 Submask Enumeration - https://cp-algorithms.com/algebra/all-submasks.html  
 🟠 Sparse Table - https://cp-algorithms.com/data_structures/sparse-table.html  
+
+  
+AoPS Series  
+🟠 Combinatorics & Counting  
+🟠 Number Theory  
+🟠 Algebra & Polynomials  
 
 
 
