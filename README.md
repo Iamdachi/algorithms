@@ -46,10 +46,6 @@ Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level fo
 
 
 ## Working difficulty - Problems that I should solve but could not
-https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
-https://leetcode.com/problems/implement-trie-prefix-tree  
-https://atcoder.jp/contests/abc469/tasks/abc469_a  
-https://atcoder.jp/contests/abc469/tasks/abc469_b  
 
 
 ## High Difficulty - need to learn some new technique or just harder patterns  
