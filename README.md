@@ -41,18 +41,18 @@ Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more comple
 🟠 Orange — Master: 2100 – 2300  
 
 ## Atcoder  
-ABC's C took be about 1 hour with editorial - There was no "technique" like dfs, bfs... it was pure logical observations. I don't know what to "learn" for this. If I had just thought about the problem properly it would take like 20 minutes....
+ABC's C took me about 1 hour with editorial - There was no "technique" like dfs, bfs... it was pure logical observations. I don't know what to "learn" for this. If I had just thought about the problem properly it would take like 20 minutes....
 Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level for me. And even before ABCs I think I need to do a lot of leetcode and CSES to be interview ready and really grind the basic techniques.
 
 
-## Problems that I should solve but could not
+## Working difficulty - Problems that I should solve but could not
 https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table  
 https://leetcode.com/problems/implement-trie-prefix-tree  
 https://atcoder.jp/contests/abc469/tasks/abc469_a  
 https://atcoder.jp/contests/abc469/tasks/abc469_b  
 
 
-## Problems that I have no idea how to solve  
+## High Difficulty - need to learn some new technique or just harder patterns  
 https://cses.fi/problemset/task/2413  
 https://leetcode.com/problems/recover-binary-search-tree/description/ (Morris traversal)  
 https://codeforces.com/problemset/problem/2237/C (these codeforces problems are something else...)  
@@ -60,7 +60,6 @@ https://codeforces.com/problemset/problem/2156/B (solve these and you in the CF 
 https://atcoder.jp/contests/abc469/tasks/abc469_d (Atcoder Game)  
 https://atcoder.jp/contests/abc469/tasks/abc469_e  
 https://atcoder.jp/contests/abc469/tasks/abc469_f  
-
 
 ## What I need to learn
 https://cses.fi/book/book.pdf  
