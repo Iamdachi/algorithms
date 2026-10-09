@@ -46,6 +46,26 @@ Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level fo
 
 
 ## Working difficulty - Problems that I should solve but could not
+just bang up every easy Binary Search just for fun(no writeups)  
+just bang up every easy DFS just for fun  
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/reconstruct-itinerary/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/house-robber-iii/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/lexicographical-numbers/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/island-perimeter/description/?envType=problem-list-v2&envId=depth-first-search  
+https://leetcode.com/problems/serialize-and-deserialize-bst/description/?envType=problem-list-v2&envId=depth-first-search  
+  
+    
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/  
+https://leetcode.com/problems/split-array-largest-sum/description/  
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/  
+https://leetcode.com/problems/k-th-smallest-prime-fraction/description/  
+https://leetcode.com/problems/maximum-running-time-of-n-computers/  
+https://leetcode.com/problems/swim-in-rising-water/?envType=problem-list-v2&envId=binary-search  
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/?envType=problem-list-v2&envId=binary-search  
 
 
 ## High Difficulty - need to learn some new technique or just harder patterns  
