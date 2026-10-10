@@ -50,7 +50,9 @@ just bang up every easy Binary Search just for fun(no writeups)
 just bang up every easy DFS just for fun  
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=depth-first-search  
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=depth-first-search  
+(dag, topological sort, kahns algorithm(bfs))  
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=depth-first-search  
+(Hierholzer’s algorithm for Eulerian paths)  
 https://leetcode.com/problems/reconstruct-itinerary/description/?envType=problem-list-v2&envId=depth-first-search  
 https://leetcode.com/problems/house-robber-iii/description/?envType=problem-list-v2&envId=depth-first-search  
 https://leetcode.com/problems/lexicographical-numbers/description/?envType=problem-list-v2&envId=depth-first-search  
