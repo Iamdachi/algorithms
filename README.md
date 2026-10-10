@@ -57,9 +57,10 @@ https://leetcode.com/problems/lexicographical-numbers/description/?envType=probl
 https://leetcode.com/problems/island-perimeter/description/?envType=problem-list-v2&envId=depth-first-search  
 https://leetcode.com/problems/serialize-and-deserialize-bst/description/?envType=problem-list-v2&envId=depth-first-search  
   
-    
+  
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/  (easy but dope concept)
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  
-https://leetcode.com/problems/median-of-two-sorted-arrays/description/  
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/  (monotonic function - but hard to see)
 https://leetcode.com/problems/split-array-largest-sum/description/  
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/  
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/  
