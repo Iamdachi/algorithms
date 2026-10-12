@@ -8,7 +8,7 @@ This is an honest judgement of my skill in each Algorithm category
 🟢 DFS: I can not solve mediums on my own and struggle with easy problems, even though I have studied them multiple times need more practice.  
 https://leetcode.com/problem-list/depth-first-search/
   
-🟢 Binary Search: Can solve easies, need more practice  
+🟢 Binary Search: I am struggling on mediums and think that my IQ is not high enough to be a real engineer :(  
 https://leetcode.com/problem-list/binary-search/  
   
 🟢 Hash Table: A lot of problems in this. They joke every lc problem is hash table problem so gotta grind this a lot.  
@@ -31,7 +31,6 @@ https://leetcode.com/problem-list/dynamic-programming/
 ⚪ DP  
 
 Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more complex things. But need to learn basic things and practice on them rank by rank.  
-  
   
 ⚪ Gray — Newbie: 0 – 1200  
 🟢 Green — Pupil: 1200 – 1400  
@@ -60,9 +59,8 @@ https://leetcode.com/problems/island-perimeter/description/?envType=problem-list
 https://leetcode.com/problems/serialize-and-deserialize-bst/description/?envType=problem-list-v2&envId=depth-first-search  
   
   
-https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/  (easy but dope concept)
-https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  
-https://leetcode.com/problems/median-of-two-sorted-arrays/description/  (monotonic function - but hard to see)
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  (DAMN this is hard and now I understand - "You don't even know how to use binary search!")  
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/  (monotonic function - but hard to see)  
 https://leetcode.com/problems/split-array-largest-sum/description/  
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/  
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/  
