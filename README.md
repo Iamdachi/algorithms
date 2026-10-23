@@ -8,7 +8,7 @@ This is an honest judgement of my skill in each Algorithm category
 🟢 DFS: I can not solve mediums on my own and struggle with easy problems, even though I have studied them multiple times need more practice.  
 https://leetcode.com/problem-list/depth-first-search/
   
-🟢 Binary Search: I am struggling on mediums and think that my IQ is not high enough to be a real engineer :(  
+🟢-🟡 Binary Search: Definitely need more easy-medium practice, solved some hards but still not there yet :)  
 https://leetcode.com/problem-list/binary-search/  
   
 🟢 Hash Table: A lot of problems in this. They joke every lc problem is hash table problem so gotta grind this a lot.  
@@ -45,8 +45,8 @@ Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level fo
 
 
 ## Working difficulty - Problems that I should solve but could not
-just bang up every easy Binary Search just for fun(no writeups)  
-just bang up every easy DFS just for fun  
+just bang every easy Binary Search just for fun(no writeups)  
+just bang every easy DFS just for fun  
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=depth-first-search  
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=depth-first-search  
 (dag, topological sort, kahns algorithm(bfs))  
@@ -59,15 +59,8 @@ https://leetcode.com/problems/island-perimeter/description/?envType=problem-list
 https://leetcode.com/problems/serialize-and-deserialize-bst/description/?envType=problem-list-v2&envId=depth-first-search  
   
   
-https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  (DAMN this is hard and now I understand - "You don't even know how to use binary search!")  
-https://leetcode.com/problems/median-of-two-sorted-arrays/description/  (monotonic function - but hard to see)  
-https://leetcode.com/problems/split-array-largest-sum/description/  
-https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/  
-https://leetcode.com/problems/k-th-smallest-prime-fraction/description/  
 https://leetcode.com/problems/maximum-running-time-of-n-computers/  
 https://leetcode.com/problems/swim-in-rising-water/?envType=problem-list-v2&envId=binary-search  
-https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/?envType=problem-list-v2&envId=binary-search  
-
 
 ## High Difficulty - need to learn some new technique or just harder patterns  
 https://cses.fi/problemset/task/2413  
