@@ -19,8 +19,9 @@ https://leetcode.com/problem-list/linked-list/
 
 🟢-🟡 DP: Almost no easies, most are set Medium or Hard  
 https://leetcode.com/problem-list/dynamic-programming/  
-
- 
+  
+## Atcoder  
+ABC's B and C are good practice range for me now. I should grind a lot on this.   
 
 ## Codeforces  
 ⚪ Math  https://codeforces.com/problemset/page/2?tags=math,0-1000  
@@ -39,37 +40,9 @@ Div 2-A: I can probably solve in 30 minutes. I don't need to "learn" more comple
 🟣 Purple — Candidate Master: 1900 – 2100  
 🟠 Orange — Master: 2100 – 2300  
 
-## Atcoder  
-ABC's C took me about 1 hour with editorial - There was no "technique" like dfs, bfs... it was pure logical observations. I don't know what to "learn" for this. If I had just thought about the problem properly it would take like 20 minutes....
-Anyway, ARC's are gonna be too hard for me. SO, now ABC's are a perfect level for me. And even before ABCs I think I need to do a lot of leetcode and CSES to be interview ready and really grind the basic techniques.
 
 
-## Working difficulty - Problems that I should solve but could not
-just bang every easy Binary Search just for fun(no writeups)  
-just bang every easy DFS just for fun  
-https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=depth-first-search  
-https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=depth-first-search  
-(dag, topological sort, kahns algorithm(bfs))  
-https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=depth-first-search  
-(Hierholzer’s algorithm for Eulerian paths)  
-https://leetcode.com/problems/reconstruct-itinerary/description/?envType=problem-list-v2&envId=depth-first-search  
-https://leetcode.com/problems/house-robber-iii/description/?envType=problem-list-v2&envId=depth-first-search  
-https://leetcode.com/problems/lexicographical-numbers/description/?envType=problem-list-v2&envId=depth-first-search  
-https://leetcode.com/problems/island-perimeter/description/?envType=problem-list-v2&envId=depth-first-search  
-https://leetcode.com/problems/serialize-and-deserialize-bst/description/?envType=problem-list-v2&envId=depth-first-search  
-  
-  
-https://leetcode.com/problems/maximum-running-time-of-n-computers/  
-https://leetcode.com/problems/swim-in-rising-water/?envType=problem-list-v2&envId=binary-search  
-
-## High Difficulty - need to learn some new technique or just harder patterns  
-https://cses.fi/problemset/task/2413  
-https://leetcode.com/problems/recover-binary-search-tree/description/ (Morris traversal)  
-https://codeforces.com/problemset/problem/2237/C (these codeforces problems are something else...)  
-https://codeforces.com/problemset/problem/2156/B (solve these and you in the CF game...)  
-https://atcoder.jp/contests/abc469/tasks/abc469_d (Atcoder Game)  
-https://atcoder.jp/contests/abc469/tasks/abc469_e  
-https://atcoder.jp/contests/abc469/tasks/abc469_f  
+## Problems to upsolve
 
 ## What I need to learn
 https://cses.fi/book/book.pdf  
