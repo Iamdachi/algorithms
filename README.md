@@ -22,7 +22,7 @@ https://leetcode.com/problem-list/dynamic-programming/
   
 ## Atcoder  
 https://kenkoooo.com/atcoder/#/table/Iamdachi  
-ABC's B and C are good practice range for me now. I should grind a lot on this.   
+Did ABC contest today: solved AB easy in 30 mins. Was super close to solving C and upsolved D.   
 
 ## Codeforces  
 ⚪ Math  https://codeforces.com/problemset/page/2?tags=math,0-1000  
